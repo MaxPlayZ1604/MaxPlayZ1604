@@ -51,7 +51,7 @@
 
 </details>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaxPlayZHD&show_icons=true&hide_border=true&bg_color=484848&text_color=ffffff&title_color=ff3a3a&icon_color=bc0003" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaxPlayZHD&show_icons=true&hide_border=true&bg_color=202020&text_color=ffffff&title_color=ff3a3a&icon_color=ff3a3a" />
 
 [twitter]: https://twitter.com/MaxPlay62443488
 [instagram]: https://instagram.com/max_n1604
