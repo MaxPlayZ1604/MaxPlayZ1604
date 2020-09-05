@@ -1,6 +1,6 @@
 ### Hi there, I'm Max - aka [MaxPlayZ] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MaxPlay62443488)
+![Twitter Follow](https://img.shields.io/twitter/follow/MaxPlay62443488?color=1DA1F2&label=FOLLOW%20%40MaxPlayZ&logo=Twitter&style=for-the-badge)
 
 ## I'm a Student and Developer!
 
