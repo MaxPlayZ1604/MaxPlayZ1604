@@ -1,4 +1,4 @@
-### Hi there, I'm Max - aka [MaxPlayZ] 👋
+### Hi there, I'm Max - aka MaxPlayZ 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/MaxPlay62443488?color=1DA1F2&label=FOLLOW%20%40MaxPlayZ&logo=Twitter&style=for-the-badge)
 
@@ -12,7 +12,7 @@
 ---
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://novatorem.maxplayzhd.vercel.app/api/spotify)](https://open.spotify.com/user/max.neri)
 
 ### Connect with me:
 
