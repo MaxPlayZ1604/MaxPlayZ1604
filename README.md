@@ -4,8 +4,8 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently working on some Garry's Mod Addons!
-- 🌱 I’m currently learning everything 🤣
+- 🔨 I’m currently working on some Garry's Mod Addons!
+- 📚 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more Garry's Mod Addons
 - ⚡ Fun fact: I love to watch Netflix
 
