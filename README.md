@@ -9,6 +9,8 @@
 - 🥅 2020 Goals: Contribute more Garry's Mod Addons
 - ⚡ Fun fact: I love to watch Netflix
 
+---
+
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
@@ -33,7 +35,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 <br />
-<br />
 
 ---
 
@@ -50,12 +51,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaxPlayZHD&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/MaxPlay62443488
 [instagram]: https://instagram.com/max_n1604
