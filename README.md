@@ -53,7 +53,9 @@
 
 <img align="left" alt="MaxPlayZHD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaxPlayZHD&show_icons=true&hide_border=true&bg_color=202020&text_color=ffffff&title_color=ff3a3a&icon_color=ff3a3a" />
 
-<img align="left" alt="MaxPlayZHD's most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxPlayZHD&bg_color=202020&text_color=ffffff&title_color=ff3a3a&icon_color=ff3a3a" />
+<br />
+
+<img align="left" alt="MaxPlayZHD's most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxPlayZHD" />
 
 [twitter]: https://twitter.com/MaxPlay62443488
 [instagram]: https://instagram.com/max_n1604
