@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="MaxPlayZHD's Github Stats" src="https://github-readme-stats.maxplayzhd.vercel.app/api?username=MaxPlayZHD&show_icons=true&hide_border=true&bg_color=202020&text_color=ffffff&title_color=ff3a3a&icon_color=ff3a3a" />
+<img align="left" alt="MaxPlayZHD's Github Stats" src="https://github-readme-stats.maxplayzhd.vercel.app/api?username=MaxPlayZHD&show_icons=true&hide_border=true&text_color=ffffff&title_color=1da1f2&icon_color=1da1f2" />
 
 [twitter]: https://twitter.com/MaxPlay62443488
 [instagram]: https://instagram.com/max_n1604
