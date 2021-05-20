@@ -12,7 +12,7 @@
 ---
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.maxplayzhd.vercel.app/api/spotify)](https://open.spotify.com/user/max.neri)
+[![Spotify](https://spotify-maxplayzhd.vercel.app/api/spotify)](https://open.spotify.com/user/max.neri)
 
 ### Connect with me:
 
