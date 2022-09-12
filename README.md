@@ -2,11 +2,11 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/MaxPlay62443488?color=1DA1F2&label=FOLLOW%20%40MaxPlayZ&logo=Twitter&style=for-the-badge)
 
-## I'm a Student and Developer!
+## I'm a Trainee and Developer!
 
-- 🔨 I’m currently working on graduating School!
+- 🔨 I’m currently working on not realy anything!
 - 📚 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Graduate school and get a Job
+- 🥅 2022 Goals: Just be me
 - ⚡ Fun fact: I love to watch Netflix
 
 ---
