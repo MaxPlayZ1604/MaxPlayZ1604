@@ -12,7 +12,7 @@
 ---
 
 ### Spotify Playing 🎧
-[![Spotify](https://maxplayz.vercel.app/api/spotify/?background_color=34495e&border_color=ecf0f1)](https://open.spotify.com/user/max.neri)
+[![Spotify](https://maxplayz.vercel.app/api/spotify/?background_color=2c3e50&border_color=ecf0f1)](https://open.spotify.com/user/max.neri)
 
 ### Connect with me:
 
